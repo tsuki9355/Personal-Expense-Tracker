@@ -1,0 +1,24 @@
+# Build output (Maven puts compiled classes and the .jar here)
+target/
+
+# IDE settings
+.idea/
+*.iml
+out/
+.vscode/
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and local secrets
+*.log
+.env
+
+# Elastic Beanstalk CLI (keep only its shared config files)
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
