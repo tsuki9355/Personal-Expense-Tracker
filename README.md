@@ -3,6 +3,9 @@
 **Live demo:** http://expense-tracker-env.eba-j6zncmqi.us-east-2.elasticbeanstalk.com
 *(may be offline to save hosting costs)*
 
+<img width="1018" height="754" alt="image" src="https://github.com/user-attachments/assets/8d1c1042-4f36-4411-a6b5-f0abd1462da4" />
+
+
 A full-stack app for recording expenses and seeing where your money goes: a React + TypeScript
 frontend on top of a Spring Boot REST API, backed by MySQL.
 
